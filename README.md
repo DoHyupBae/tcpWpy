@@ -57,3 +57,7 @@
 
 ### DB 화면
 ![db 화면](https://github.com/user-attachments/assets/6e7960db-1ce1-44b2-8bf3-bc0bc888677a)
+
+---
+#### Updates
+- 2024.08.07 server.py, client.py, db 완성
