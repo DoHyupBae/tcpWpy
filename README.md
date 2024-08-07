@@ -30,7 +30,7 @@
 
 ### DB
 - PostgreSQL 로 생성된 waterCondition의 realtime 테이블에 데이터 축적
-- columns : flow, impurities1, impurities2, time
+- **columns** : flow, impurities1, impurities2, time
 
 --- 
 ## 한계
